@@ -120,8 +120,8 @@ The application uses React Context API for state management:
 1. Clone and install:
 
 ```bash
-git clone [repository-url]
-cd movie-analytics-dashboard
+git clone https://github.com/Raneen-medhat/glance-care.git
+cd glance-care
 npm install
 ```
 
